@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ArrayAdapter</string>
+    <string name="generate">Generate</string>
+    <string-array name="name">
+        <item>Danny</item>
+        <item>Ben</item>
+        <item>Glenn</item>
+        <item>Steve</item>
+        <item>Robert</item>
+        <item>Maria</item>
+        <item>Sara</item>
+        <item>Sherry</item>
+        <item>Rebecca</item>
+        <item>Linda</item>
+    </string-array>
+    <string-array name="last_names">
+        <item>Fleming</item>
+        <item>Byrd</item>
+        <item>Gray</item>
+        <item>Griffith</item>
+        <item>Beck</item>
+        <item>Owen</item>
+        <item>Bailey</item>
+        <item>Birkin</item>
+        <item>Hernandez</item>
+        <item>Lane</item>
+    </string-array>
+</resources>
